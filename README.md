@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi world! 	:raised_hands: I am Weqi :sunglasses:
+### I am Focus on front end 
+### interested in UI design :muscle:
 <!--
 **weqiputra/weqiputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
